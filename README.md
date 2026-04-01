@@ -16,11 +16,11 @@
 
 ## 🧠 About Me
 
-I'm a final-year **BSc Mathematics** student at **Sefako Makgatho Health Sciences University**, majoring in **Computer Science and Statistics**. I'm passionate about the intersection of data and decision-making — I genuinely enjoy the process of pulling meaning from numbers and following structured frameworks to get there.
+I'm a final-year **BSc Mathematics** student at **Sefako Makgatho Health Sciences University**, majoring in **Computer Science and Statistics**. I'm passionate about the intersection of data and decision-making. I genuinely enjoy the process of pulling meaning from numbers and data and following structured frameworks to get there.
 
-Statistics isn't just a subject for me — it's a way of thinking. Whether it's understanding distributions, building models, or interpreting results, I find it deeply satisfying to let data tell its story.
+Statistics isn't just a subject for me , it's a way of thinking. Whether it's understanding distributions, building models, or interpreting results, I find it deeply satisfying to let data tell its story.
 
-Outside of my degree, I'm currently enrolled in a **Data Engineering Bootcamp (until July 2026)** where I'm building hands-on skills in SQL, pipelines, and the full data engineering stack.
+Outside of my degree, I'm currently enrolled in a **Data Engineering Bootcamp hosted by BrightLearn PTY LTD , led by industry mentors (until July 2026)** where I'm building hands-on skills in SQL, pipelines, and the full data engineering stack.
 
 ---
 
@@ -81,8 +81,7 @@ Outside of my degree, I'm currently enrolled in a **Data Engineering Bootcamp (u
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/nexatech)
-[![Website](https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hellonexatech.co.za)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@hellonexatech.co.za)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethokuhlelethi@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27713446180)
 
 </div>
